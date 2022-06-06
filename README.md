@@ -1,7 +1,7 @@
 ### Hi there, I'm Zhiwei Chen. 👋
 
 - 🌱 I’m a Ph.D student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Artificial Intelligence Department, School of Informatics, Xiamen University, China.
-- ❤️ I’m currently working on Computer Vision, research interests being focused on weakly supervised learning...
+- ❤️ My research interests are in vision-and-language learning and semi-supervised object detection.
 
 ![luogen1996's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=luogen1996&show_icons=true&theme=cobalt)
 
