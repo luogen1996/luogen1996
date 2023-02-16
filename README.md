@@ -1,7 +1,7 @@
 ### Hi there, I'm Gen Luo. 👋
 
 - 🌱 I’m a Ph.D student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Artificial Intelligence Department, School of Informatics, Xiamen University, China.
-- ❤️ My research interests are in vision-and-language learning and semi-supervised object detection.
+- ❤️ My research interests are in vision-and-language learning and efficient training.
 
 ![luogen1996's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=luogen1996&show_icons=true&theme=cobalt)
 
